@@ -1,8 +1,8 @@
 
-Combine Assistant, or CA for short, originally created by Blt950 for the Clockwork framework, has been recreated for Helix. While not an entirely accurate copy of the original plugin, it adds several useful features for Combine factions. I plan to improve it at some point and add some more things.
+Помощник по объединению, или сокращенно CA, первоначально созданный Blt950 для Clockwork framework, был воссоздан для Helix. Хотя это и не совсем точная копия оригинального плагина, он добавляет несколько полезных функций для объединения фракций. В какой-то момент я планирую улучшить его и добавить еще кое-что.
 
-This plugin has built-in support for the CTO (Combine Technology Overlay) plugin, and adds a few more features if the plugin is installed.
+Этот плагин имеет встроенную поддержку плагина TO (Combine Technology Overlay) и добавляет еще несколько функций, если плагин установлен.
 
-To use, bind the `+CombineAssistant` command to a key, and press and hold that key to open the menu.
+Чтобы использовать, привяжите команду `+Combine Assistant` к клавише и нажмите и удерживайте эту клавишу, чтобы открыть меню.
 
-[Video Showcase](https://www.youtube.com/watch?v=NmvUG8MkJOA)
+[Видео пример](https://www.youtube.com/watch?v=NmvUG8MkJOA)
